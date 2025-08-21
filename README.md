@@ -1,4 +1,4 @@
-<img width="1201" height="637" alt="image" src="https://github.com/user-attachments/assets/5965ad22-8773-4faa-b251-d0d5271817c0" />
+
 Student Certificate Verifier (Blockchain-Based)
 
 	Overview:
@@ -21,6 +21,9 @@ The system allows the admin (contract owner) to add student certificates, includ
 
 
 
+
+<img width="1143" height="612" alt="image" src="https://github.com/user-attachments/assets/dc249c91-2e2b-4e9c-829b-02e994c7bf95" />
+<img width="1201" height="637" alt="image" src="https://github.com/user-attachments/assets/5965ad22-8773-4faa-b251-d0d5271817c0" />
 
 
 
